@@ -1,1 +1,2 @@
-# NinePointEight_Releases
+# NinePointEight Releases
+Binary uploads for the game 9.8
